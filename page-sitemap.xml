@@ -8,8 +8,15 @@
     </url>
     
     <url>
+        <loc>http://amoylel.github.io/about/</loc>
+        <lastmod>2019-05-31T04:52:29.383Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
         <loc>http://amoylel.github.io/friends/</loc>
-        <lastmod>2019-05-31T03:28:32.836Z</lastmod>
+        <lastmod>2019-05-31T04:47:17.032Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -31,13 +38,6 @@
     <url>
         <loc>http://amoylel.github.io/blog/categories/</loc>
         <lastmod>2019-05-31T03:28:32.836Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>http://amoylel.github.io/about/</loc>
-        <lastmod>2019-05-31T03:28:32.816Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
